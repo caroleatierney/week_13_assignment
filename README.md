@@ -12,6 +12,9 @@ Using Create-React-App or Vite, create a new React project.
 -npx create-react-app my-app
 -https://create-react-app.dev/docs/getting-started/
 
+### Need to create local folder, then push to a non-existing remote directory
+-https://dev.to/gregpetropoulos/github-repo-setup-for-react-app-1dnd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,7 +1,5 @@
 import './App.css';
 
-// import bootstrap from 'bootstrap'
-
 import Login from './Login'
 import './Login.css';
 

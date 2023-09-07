@@ -1,1 +1,15 @@
-/*  */
+#login {
+    background-color: blanchedalmond;
+    padding: 0;
+    margin: 15;
+}
+
+.h3login {
+    text-align: center;
+}
+
+#loginInput {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

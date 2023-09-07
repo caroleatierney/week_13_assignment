@@ -1,6 +1,12 @@
 import './App.css';
-import Nav from './Nav'
+
+// import bootstrap from 'bootstrap'
+
 import Login from './Login'
+import './Login.css';
+
+import Nav from './Nav'
+import './Nav.css';
 
 function App() {
   return (

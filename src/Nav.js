@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Nav extends Component {
     render() {
         return (
-            <nav>
+            <nav className="navBar">
                 <ul>
                     <li>Home</li>
                     <li>About</li>

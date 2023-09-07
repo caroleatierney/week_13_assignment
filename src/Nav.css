@@ -1,1 +1,14 @@
-/*  */
+.navBar {
+    background-color: aquamarine;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+nav ul li {
+    list-style-type: none;
+}

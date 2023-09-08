@@ -5,6 +5,8 @@ body {
     padding: 0;
     margin: 0;
 }
+
+/* displaying aa flex centers it in the container */
 .loginContainer {
     border: 6px solid #1B4965;
     height: 90vh;
@@ -20,6 +22,7 @@ body {
     max-width: 700px;
 }
 
+/* applied border per assignment directions */
 .h3login {
     text-align: center;
     color: #1B4965;
@@ -27,6 +30,7 @@ body {
     border: 7px ridge #BEE9E8;
 }
 
+/* display input buttons and submit in column format */
 .row {
     display: flex;
     flex-direction: column;

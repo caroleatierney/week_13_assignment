@@ -6,6 +6,7 @@ import './Nav.css';
 import Login from './Login'
 import './Login.css';
 
+// this function returns the components in a div to the index page
 function App() {
   return (
     <div className="App">

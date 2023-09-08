@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import './Login.css';
 
+// this is the component for the login information that 
+// is displayed in the center of the index page
+
 export default class Login extends Component {
     render() {
         return (

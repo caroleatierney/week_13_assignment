@@ -9,6 +9,7 @@ body {
     border: 5px solid #1B4965;
 }
 
+/* display nav links in row format */
 nav ul {
     display: flex;
     flex-direction: row;
@@ -16,14 +17,14 @@ nav ul {
     padding: 15px;
     margin: 0;
     padding: 10px;
-
 }
 
+/* remove bullets */
 nav ul li {
     list-style-type: none;
-    display: inline;
 } 
 
+/* remove underlines from links */
 a {
     text-decoration: none;
     display: block;

@@ -2,13 +2,13 @@ body {
     font-family: fantasy;
     font-size: 20px;
     background-color: #BEE9E8;
-    padding: 10px;
+    padding: 0;
+    margin: 0;
 }
 .loginContainer {
     border: 6px solid #1B4965;
     height: 90vh;
     display: flex;
-    justify-content: center;
     background-color: #5FA8D3;
 }
 
@@ -33,14 +33,14 @@ body {
     flex-wrap: wrap;
     justify-content: center;
 }
-label {
-    padding-right: 8px;
-}
 
 .loginInput {
     display: flex;
     justify-content: center;
     padding: 8px;
+}
+label {
+    padding-right: 8px;
 }
 
 input {
